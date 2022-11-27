@@ -23,5 +23,5 @@ Example usage
 ```commandline
 python main.py
 python main.py --path ./path_to_custom_folder/
-python main.py --intermediate_results 
+python main.py --no-intermediate_results 
 ```
